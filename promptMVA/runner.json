@@ -1,0 +1,37 @@
+{
+  "workflow": "ElectronTagNProbeFromNanoAOD",
+  "workflow_args": {
+    "filters": {
+      "MVAmedium": "promptMVA >= 0.8",
+      "MVAtight": "promptMVA >= 0.9"
+    },
+    "filterbit": null,
+    "trigger_pt": null
+  },
+  "methods": [
+    {
+      "name": "get_nd_tnp_histograms",
+      "args": {
+        "filter": "MVAmedium",
+        "cut_and_count": false,
+        "vars": ["el_pt", "el_eta"],
+        "uproot_options": {
+          "allow_read_errors_with_report": ["OSError", "ValueError"],
+          "timeout": 120
+        }
+      }
+    },
+    {
+      "name": "get_nd_tnp_histograms",
+      "args": {
+        "filter": "MVAtight",
+        "cut_and_count": false,
+        "vars": ["el_pt", "el_eta"],
+        "uproot_options": {
+          "allow_read_errors_with_report": ["OSError", "ValueError"],
+          "timeout": 120
+        }
+      }
+    }
+  ]
+}

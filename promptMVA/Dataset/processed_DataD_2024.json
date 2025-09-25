@@ -1,0 +1,5964 @@
+{
+  "DataD_2024": {
+    "files": {
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/9d4e97c7-f23a-4cff-ac72-58488e544076.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            201451
+          ],
+          [
+            201451,
+            402902
+          ],
+          [
+            402902,
+            604351
+          ]
+        ],
+        "num_entries": 604351,
+        "uuid": "db38a338-0767-11f0-9963-9614030abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/6e753ded-df33-4894-baa2-5686f6f9d5d2.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            231887
+          ],
+          [
+            231887,
+            463774
+          ],
+          [
+            463774,
+            695661
+          ]
+        ],
+        "num_entries": 695661,
+        "uuid": "1bcbd3f6-0782-11f0-8bb4-e114030abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/50943b43-939d-4753-953b-b697631bb037.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            187921
+          ],
+          [
+            187921,
+            375841
+          ]
+        ],
+        "num_entries": 375841,
+        "uuid": "3dd445ee-0842-11f0-ae25-890d030abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/ab087a1e-9bf7-4070-aab5-e38bbba4e3c4.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            72341
+          ]
+        ],
+        "num_entries": 72341,
+        "uuid": "f2d8bdd6-071f-11f0-8565-6f339e86beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/725d49ca-a46a-4aca-aa21-143bcbcc3d9d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            224741
+          ],
+          [
+            224741,
+            449482
+          ],
+          [
+            449482,
+            674222
+          ]
+        ],
+        "num_entries": 674222,
+        "uuid": "4667381a-075c-11f0-b1ef-a8339e86beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/78a7d461-495f-4d4c-9532-008e4a94bd9d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            214340
+          ],
+          [
+            214340,
+            428680
+          ],
+          [
+            428680,
+            643020
+          ]
+        ],
+        "num_entries": 643020,
+        "uuid": "eebf14dc-0767-11f0-b57c-92339e86beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/5f5cc627-93b3-47c1-8b45-28e717d476ba.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            221230
+          ],
+          [
+            221230,
+            442460
+          ],
+          [
+            442460,
+            663690
+          ]
+        ],
+        "num_entries": 663690,
+        "uuid": "059f73ce-0801-11f0-9187-30349e86beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/cf8c050d-b223-4507-90c5-a8b2460b9955.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            289083
+          ]
+        ],
+        "num_entries": 289083,
+        "uuid": "ef09e11c-086e-11f0-bd3a-0d319e86beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/0071609e-a154-48b1-a2ed-718b362e0110.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            35232
+          ]
+        ],
+        "num_entries": 35232,
+        "uuid": "aa65fe2a-0714-11f0-9309-6f65a8c0beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/fa8af595-ef36-42c3-a6aa-6358bbc12de4.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            222546
+          ],
+          [
+            222546,
+            445092
+          ],
+          [
+            445092,
+            667637
+          ]
+        ],
+        "num_entries": 667637,
+        "uuid": "4c613788-074e-11f0-9712-3764a8c0beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/3c03f49e-5251-4dae-b309-895e252adccf.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            211762
+          ],
+          [
+            211762,
+            423524
+          ],
+          [
+            423524,
+            635286
+          ]
+        ],
+        "num_entries": 635286,
+        "uuid": "48840a6a-075c-11f0-9814-4a65a8c0beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/4c768baf-109b-4ef0-b71b-b9a7d4ecd317.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            48151
+          ]
+        ],
+        "num_entries": 48151,
+        "uuid": "f9a37bde-0827-11f0-8b45-6e65a8c0beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/235af39c-1ee5-44e5-84fa-a40eff6bb40a.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            199736
+          ],
+          [
+            199736,
+            399472
+          ],
+          [
+            399472,
+            599208
+          ],
+          [
+            599208,
+            798944
+          ]
+        ],
+        "num_entries": 798944,
+        "uuid": "5d253f22-0750-11f0-a2d1-0e8ed380beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/7607b0aa-1a48-483e-85e7-ef8abcd63c09.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            190137
+          ],
+          [
+            190137,
+            380274
+          ],
+          [
+            380274,
+            570411
+          ],
+          [
+            570411,
+            760548
+          ],
+          [
+            760548,
+            950685
+          ]
+        ],
+        "num_entries": 950685,
+        "uuid": "5d0bcdb2-0750-11f0-b749-2894d380beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/1141de70-ad38-4436-987a-759bb50a34e2.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            188737
+          ],
+          [
+            188737,
+            377474
+          ],
+          [
+            377474,
+            566211
+          ],
+          [
+            566211,
+            754945
+          ]
+        ],
+        "num_entries": 754945,
+        "uuid": "4359a43c-075c-11f0-bfc6-108ed380beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/5cccb71d-279f-44d1-8aae-400aea4c917c.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            218765
+          ],
+          [
+            218765,
+            437530
+          ],
+          [
+            437530,
+            656294
+          ]
+        ],
+        "num_entries": 656294,
+        "uuid": "3f1d3096-075c-11f0-9a20-108ed380beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/72629c5f-5479-4a7d-93a7-1c89faf1c2c5.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            217147
+          ],
+          [
+            217147,
+            434294
+          ],
+          [
+            434294,
+            651441
+          ]
+        ],
+        "num_entries": 651441,
+        "uuid": "0bdbb82c-0777-11f0-a0b0-158ed380beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/e0504a01-067a-4cab-8f78-92120cab494c.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            131934
+          ]
+        ],
+        "num_entries": 131934,
+        "uuid": "01f9d08c-0867-11f0-acee-0c8ed380beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/6b38b162-ead7-4cdf-99fc-6670fb342c57.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            192926
+          ],
+          [
+            192926,
+            385852
+          ],
+          [
+            385852,
+            578778
+          ],
+          [
+            578778,
+            771704
+          ],
+          [
+            771704,
+            964630
+          ],
+          [
+            964630,
+            1157553
+          ]
+        ],
+        "num_entries": 1157553,
+        "uuid": "83e9ca90-076b-11f0-848c-0c0a0c12beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/d30cb053-73c6-4b3f-b3c3-eb6b3ea57d98.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            174022
+          ],
+          [
+            174022,
+            348044
+          ]
+        ],
+        "num_entries": 348044,
+        "uuid": "91e46102-0714-11f0-ad5a-2b94d380beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/d601a6ab-bfe7-4c36-9e23-e1664506df79.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            181692
+          ],
+          [
+            181692,
+            363384
+          ],
+          [
+            363384,
+            545076
+          ],
+          [
+            545076,
+            726767
+          ]
+        ],
+        "num_entries": 726767,
+        "uuid": "99d969b0-0751-11f0-98f7-042d12acbeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/c887c048-2bcc-4f9e-bd80-2046fbcb3ef4.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            178038
+          ],
+          [
+            178038,
+            356076
+          ],
+          [
+            356076,
+            534114
+          ],
+          [
+            534114,
+            712150
+          ]
+        ],
+        "num_entries": 712150,
+        "uuid": "f3a5e5fc-074e-11f0-af71-0f8ed380beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/8a58eb06-d804-4748-8c66-395235042e58.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207012
+          ],
+          [
+            207012,
+            414024
+          ],
+          [
+            414024,
+            621036
+          ],
+          [
+            621036,
+            828048
+          ],
+          [
+            828048,
+            1035060
+          ],
+          [
+            1035060,
+            1242067
+          ]
+        ],
+        "num_entries": 1242067,
+        "uuid": "60a5fb5c-0767-11f0-96f5-c0090d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/219e0306-afc7-4517-8363-61a40ae4a3a8.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            222913
+          ],
+          [
+            222913,
+            445826
+          ],
+          [
+            445826,
+            668738
+          ]
+        ],
+        "num_entries": 668738,
+        "uuid": "2c4a73ac-075c-11f0-9e06-0e0a0c12beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/ef4380e9-c32d-4146-9683-6c957f84c425.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            176641
+          ],
+          [
+            176641,
+            353282
+          ],
+          [
+            353282,
+            529923
+          ],
+          [
+            529923,
+            706564
+          ]
+        ],
+        "num_entries": 706564,
+        "uuid": "06e34aee-075c-11f0-bd3d-e8090d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/98e96ef4-cb6c-4024-8108-b1d65345e02c.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            202796
+          ],
+          [
+            202796,
+            405592
+          ],
+          [
+            405592,
+            608388
+          ],
+          [
+            608388,
+            811181
+          ]
+        ],
+        "num_entries": 811181,
+        "uuid": "a7b5d358-075f-11f0-b4f4-090a0c12beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/f535d868-2a27-4357-a140-669d0ddc7280.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210402
+          ],
+          [
+            210402,
+            420804
+          ],
+          [
+            420804,
+            631204
+          ]
+        ],
+        "num_entries": 631204,
+        "uuid": "af463338-075f-11f0-810d-ac0c0d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/77fc58f9-ee71-4b69-9575-db168bd7bc02.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/d193ebc2-6f89-40a5-8a65-6e86bb5026ad.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            205212
+          ],
+          [
+            205212,
+            410424
+          ],
+          [
+            410424,
+            615636
+          ],
+          [
+            615636,
+            820848
+          ],
+          [
+            820848,
+            1026060
+          ],
+          [
+            1026060,
+            1231270
+          ]
+        ],
+        "num_entries": 1231270,
+        "uuid": "e0d430b4-075d-11f0-8215-840c0d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/6eb22769-3cba-4926-b959-7171263d6b54.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            228133
+          ],
+          [
+            228133,
+            456266
+          ],
+          [
+            456266,
+            684398
+          ]
+        ],
+        "num_entries": 684398,
+        "uuid": "87cdd90e-077e-11f0-91cb-99060d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/d2649481-d4b0-46cf-aade-1339926bc8c3.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            204850
+          ],
+          [
+            204850,
+            409700
+          ],
+          [
+            409700,
+            614550
+          ],
+          [
+            614550,
+            819399
+          ]
+        ],
+        "num_entries": 819399,
+        "uuid": "993efe8c-0762-11f0-b95b-d4090d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/276588b2-ac8b-498c-9fcd-56e1dc810c6e.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            230294
+          ],
+          [
+            230294,
+            460588
+          ],
+          [
+            460588,
+            690880
+          ]
+        ],
+        "num_entries": 690880,
+        "uuid": "fb34d3ae-0768-11f0-8337-920c0d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/c1adf567-db18-4bfa-832c-898cc5d95ef5.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            217709
+          ],
+          [
+            217709,
+            435418
+          ],
+          [
+            435418,
+            653126
+          ]
+        ],
+        "num_entries": 653126,
+        "uuid": "1abf350c-0782-11f0-aea1-60090d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/b969aa83-1919-4ab7-aa8f-b6df505dc9b8.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            205800
+          ],
+          [
+            205800,
+            411600
+          ],
+          [
+            411600,
+            617400
+          ],
+          [
+            617400,
+            823200
+          ],
+          [
+            823200,
+            1029000
+          ],
+          [
+            1029000,
+            1234799
+          ]
+        ],
+        "num_entries": 1234799,
+        "uuid": "7a3c6364-0765-11f0-a76b-65060d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/322eaadc-0952-463f-9b2f-85ecd26a2220.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            180378
+          ],
+          [
+            180378,
+            360756
+          ],
+          [
+            360756,
+            541134
+          ],
+          [
+            541134,
+            721511
+          ]
+        ],
+        "num_entries": 721511,
+        "uuid": "bf752174-0796-11f0-b173-0b0a0c12beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/ab21cf17-9017-468a-b359-eb9d47e7c8da.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            202348
+          ],
+          [
+            202348,
+            404696
+          ],
+          [
+            404696,
+            607044
+          ],
+          [
+            607044,
+            809391
+          ]
+        ],
+        "num_entries": 809391,
+        "uuid": "8c458b6a-0767-11f0-94b4-10060d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/cf8f5b97-6347-4210-93a0-e5bf14a93b10.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            227696
+          ],
+          [
+            227696,
+            455392
+          ],
+          [
+            455392,
+            683087
+          ]
+        ],
+        "num_entries": 683087,
+        "uuid": "ab3b574c-076d-11f0-9d37-0e040d0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/3ed136de-98ad-4606-8ff7-4f191d844b8d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            227231
+          ],
+          [
+            227231,
+            454462
+          ],
+          [
+            454462,
+            681693
+          ]
+        ],
+        "num_entries": 681693,
+        "uuid": "fcd8ca72-07a8-11f0-bd59-090a0c12beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/ff73b0ac-7d21-4d94-8c0d-02e4f83a1405.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            215447
+          ],
+          [
+            215447,
+            430894
+          ]
+        ],
+        "num_entries": 430894,
+        "uuid": "704d1636-086a-11f0-b787-0c0a0c12beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/b1bf33d1-15a9-4a9e-a8b5-f0c2d16ba73a.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            181963
+          ],
+          [
+            181963,
+            363926
+          ],
+          [
+            363926,
+            545889
+          ]
+        ],
+        "num_entries": 545889,
+        "uuid": "ee95d97e-07b1-11f0-a786-41a9935abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/973eaa64-3581-4bd8-af96-548bf92c82a3.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            200576
+          ],
+          [
+            200576,
+            401152
+          ],
+          [
+            401152,
+            601726
+          ]
+        ],
+        "num_entries": 601726,
+        "uuid": "6e0f4592-075c-11f0-9bf1-d9cdb9bcbeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/121e81f6-b8f7-494c-b9f6-6d613399cbe7.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            215782
+          ],
+          [
+            215782,
+            431564
+          ],
+          [
+            431564,
+            647345
+          ]
+        ],
+        "num_entries": 647345,
+        "uuid": "2208b8e8-0768-11f0-b795-09cdb9bcbeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/cb31c05f-82b5-475c-9fed-8144e98984c4.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            223791
+          ],
+          [
+            223791,
+            447582
+          ],
+          [
+            447582,
+            671373
+          ]
+        ],
+        "num_entries": 671373,
+        "uuid": "8018c9ec-07b2-11f0-b0e9-b5ccb9bcbeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/75777e7f-1e17-4c9b-a3ea-dce1c12a0ce8.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            218888
+          ],
+          [
+            218888,
+            437776
+          ],
+          [
+            437776,
+            656662
+          ]
+        ],
+        "num_entries": 656662,
+        "uuid": "1ddf156a-0857-11f0-be4a-75cdb9bcbeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/cfdfd2e5-37a7-4b8a-aba3-95a2b56d9923.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            178327
+          ]
+        ],
+        "num_entries": 178327,
+        "uuid": "ab8add76-087b-11f0-b7bf-18a8935abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/cea6523d-b9d4-4a82-a479-1d14df9d44a3.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210051
+          ],
+          [
+            210051,
+            420102
+          ],
+          [
+            420102,
+            630153
+          ],
+          [
+            630153,
+            840204
+          ]
+        ],
+        "num_entries": 840204,
+        "uuid": "65c59070-0744-11f0-b948-45bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/10ba2f12-8ce2-48bf-8255-c811234c7aa0.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            227919
+          ],
+          [
+            227919,
+            455838
+          ],
+          [
+            455838,
+            683755
+          ]
+        ],
+        "num_entries": 683755,
+        "uuid": "7da01fe8-0777-11f0-8e8f-f582e4a9beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/fcf9195e-4022-4a7e-84f6-3c27d806744b.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            179134
+          ],
+          [
+            179134,
+            358268
+          ],
+          [
+            358268,
+            537401
+          ]
+        ],
+        "num_entries": 537401,
+        "uuid": "7fa16024-083d-11f0-9728-9e84e4a9beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/4fd5cc07-2ea0-4c48-b1fc-a9f41653f2d5.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            224967
+          ],
+          [
+            224967,
+            449934
+          ],
+          [
+            449934,
+            674899
+          ]
+        ],
+        "num_entries": 674899,
+        "uuid": "a0182736-0773-11f0-8dfc-11cce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/a8ffd28a-4e82-4618-99ca-8cc9e6e3c361.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            206117
+          ],
+          [
+            206117,
+            412234
+          ],
+          [
+            412234,
+            618351
+          ],
+          [
+            618351,
+            824468
+          ],
+          [
+            824468,
+            1030585
+          ],
+          [
+            1030585,
+            1236700
+          ]
+        ],
+        "num_entries": 1236700,
+        "uuid": "529cf6bc-0750-11f0-8f7f-88cde183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/672e4346-e01b-4254-8106-55b2bf259a7f.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207420
+          ],
+          [
+            207420,
+            414840
+          ],
+          [
+            414840,
+            622260
+          ],
+          [
+            622260,
+            829680
+          ],
+          [
+            829680,
+            1037100
+          ],
+          [
+            1037100,
+            1244519
+          ]
+        ],
+        "num_entries": 1244519,
+        "uuid": "42c92bf2-0750-11f0-ada8-abbfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/c701bf37-6a69-4002-be61-24ada3251906.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208436
+          ],
+          [
+            208436,
+            416872
+          ],
+          [
+            416872,
+            625308
+          ],
+          [
+            625308,
+            833744
+          ],
+          [
+            833744,
+            1042180
+          ],
+          [
+            1042180,
+            1250612
+          ]
+        ],
+        "num_entries": 1250612,
+        "uuid": "983baa08-0744-11f0-96e8-9bbfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/e32a58d5-5125-4bd5-8df8-f0be54e84456.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208880
+          ],
+          [
+            208880,
+            417760
+          ],
+          [
+            417760,
+            626640
+          ],
+          [
+            626640,
+            835520
+          ],
+          [
+            835520,
+            1044400
+          ],
+          [
+            1044400,
+            1253276
+          ]
+        ],
+        "num_entries": 1253276,
+        "uuid": "2cf6e584-0751-11f0-a3de-58cfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/1ab2143f-bd01-41e5-affc-2dc297a6c5e2.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            213016
+          ],
+          [
+            213016,
+            426032
+          ],
+          [
+            426032,
+            639048
+          ],
+          [
+            639048,
+            852064
+          ],
+          [
+            852064,
+            1065080
+          ],
+          [
+            1065080,
+            1278091
+          ]
+        ],
+        "num_entries": 1278091,
+        "uuid": "97288578-0744-11f0-b91a-64bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/32f179cc-80bd-4b4b-ae9e-9acf8e2ab74e.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            206076
+          ],
+          [
+            206076,
+            412152
+          ],
+          [
+            412152,
+            618228
+          ],
+          [
+            618228,
+            824304
+          ],
+          [
+            824304,
+            1030380
+          ],
+          [
+            1030380,
+            1236454
+          ]
+        ],
+        "num_entries": 1236454,
+        "uuid": "f59986ea-0751-11f0-a36e-7fcde183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/5adfc563-1610-4fff-aa87-2dac841e5563.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207112
+          ],
+          [
+            207112,
+            414224
+          ],
+          [
+            414224,
+            621336
+          ],
+          [
+            621336,
+            828448
+          ],
+          [
+            828448,
+            1035560
+          ],
+          [
+            1035560,
+            1242671
+          ]
+        ],
+        "num_entries": 1242671,
+        "uuid": "dfa30dac-0751-11f0-9b6e-50bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/6cb29fd5-d774-4291-b87b-50a38c75ba50.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209800
+          ],
+          [
+            209800,
+            419600
+          ],
+          [
+            419600,
+            629400
+          ],
+          [
+            629400,
+            839200
+          ],
+          [
+            839200,
+            1049000
+          ],
+          [
+            1049000,
+            1258800
+          ]
+        ],
+        "num_entries": 1258800,
+        "uuid": "4d872e9a-0750-11f0-a812-61cce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/fd1c945e-c613-41ad-a988-585d86aea39a.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209733
+          ],
+          [
+            209733,
+            419466
+          ],
+          [
+            419466,
+            629199
+          ],
+          [
+            629199,
+            838932
+          ],
+          [
+            838932,
+            1048665
+          ],
+          [
+            1048665,
+            1258394
+          ]
+        ],
+        "num_entries": 1258394,
+        "uuid": "48a89698-0750-11f0-a56d-40bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/3abf83ac-38bb-436a-9c7a-9e1998bcc9c7.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            196210
+          ],
+          [
+            196210,
+            392420
+          ],
+          [
+            392420,
+            588630
+          ],
+          [
+            588630,
+            784840
+          ],
+          [
+            784840,
+            981049
+          ]
+        ],
+        "num_entries": 981049,
+        "uuid": "8e0d6bf6-074f-11f0-a88a-86bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/5819fdd4-9b9a-4e0f-96e1-c453be2264ac.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208723
+          ],
+          [
+            208723,
+            417446
+          ],
+          [
+            417446,
+            626169
+          ],
+          [
+            626169,
+            834892
+          ],
+          [
+            834892,
+            1043615
+          ],
+          [
+            1043615,
+            1252333
+          ]
+        ],
+        "num_entries": 1252333,
+        "uuid": "3a6e3cb8-0746-11f0-a202-21bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/6c097143-8abc-427c-9383-f68d18039cc4.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/7bf87a19-281b-4ea1-9c7d-1df626a27cf7.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209020
+          ],
+          [
+            209020,
+            418040
+          ],
+          [
+            418040,
+            627060
+          ],
+          [
+            627060,
+            836080
+          ],
+          [
+            836080,
+            1045100
+          ],
+          [
+            1045100,
+            1254120
+          ]
+        ],
+        "num_entries": 1254120,
+        "uuid": "c3729fbe-0754-11f0-8fb4-72bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/07ce10ec-e87a-448d-81a6-078d2747fcd3.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            211037
+          ],
+          [
+            211037,
+            422074
+          ],
+          [
+            422074,
+            633111
+          ],
+          [
+            633111,
+            844148
+          ],
+          [
+            844148,
+            1055185
+          ],
+          [
+            1055185,
+            1266217
+          ]
+        ],
+        "num_entries": 1266217,
+        "uuid": "de8652ee-0751-11f0-bf6b-83bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/86e9909b-4461-4190-a16b-2b6f2c6e5200.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210096
+          ],
+          [
+            210096,
+            420192
+          ],
+          [
+            420192,
+            630288
+          ],
+          [
+            630288,
+            840384
+          ],
+          [
+            840384,
+            1050480
+          ],
+          [
+            1050480,
+            1260572
+          ]
+        ],
+        "num_entries": 1260572,
+        "uuid": "bd974450-0754-11f0-95b9-d9cce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/a9fc291e-b3aa-43ef-992e-7d6795218c4e.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            212748
+          ],
+          [
+            212748,
+            425496
+          ],
+          [
+            425496,
+            638244
+          ],
+          [
+            638244,
+            850992
+          ],
+          [
+            850992,
+            1063740
+          ],
+          [
+            1063740,
+            1276483
+          ]
+        ],
+        "num_entries": 1276483,
+        "uuid": "4090e9ce-0746-11f0-8170-9abfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/552a88ac-5c7a-4f8b-897c-2c150929c8e0.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209580
+          ],
+          [
+            209580,
+            419160
+          ],
+          [
+            419160,
+            628740
+          ],
+          [
+            628740,
+            838320
+          ],
+          [
+            838320,
+            1047900
+          ],
+          [
+            1047900,
+            1257477
+          ]
+        ],
+        "num_entries": 1257477,
+        "uuid": "4b1142e0-0750-11f0-9d90-72bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/409a2268-bcbf-4efe-ab4a-aa17b6a64741.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            206470
+          ],
+          [
+            206470,
+            412940
+          ],
+          [
+            412940,
+            619410
+          ],
+          [
+            619410,
+            825880
+          ],
+          [
+            825880,
+            1032350
+          ],
+          [
+            1032350,
+            1238819
+          ]
+        ],
+        "num_entries": 1238819,
+        "uuid": "5a5d0644-0750-11f0-a2d1-b3bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/c3235b73-21dd-4996-850b-9083a212eb9d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            205861
+          ],
+          [
+            205861,
+            411722
+          ],
+          [
+            411722,
+            617583
+          ],
+          [
+            617583,
+            823444
+          ],
+          [
+            823444,
+            1029305
+          ],
+          [
+            1029305,
+            1235163
+          ]
+        ],
+        "num_entries": 1235163,
+        "uuid": "49e3b632-0750-11f0-9d90-a2bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/a731e5bd-4d23-4446-b1e8-ca83dc4e1f3d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209920
+          ],
+          [
+            209920,
+            419840
+          ],
+          [
+            419840,
+            629760
+          ],
+          [
+            629760,
+            839680
+          ],
+          [
+            839680,
+            1049600
+          ],
+          [
+            1049600,
+            1259519
+          ]
+        ],
+        "num_entries": 1259519,
+        "uuid": "e13bffa2-0751-11f0-adc0-79bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/1c387ba5-4a89-436c-ad42-4baa21f23dcd.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            217241
+          ],
+          [
+            217241,
+            434482
+          ],
+          [
+            434482,
+            651723
+          ]
+        ],
+        "num_entries": 651723,
+        "uuid": "29e7d578-07bb-11f0-a31f-9acce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/646dea3d-a3ce-4bd9-804f-dcbdea663469.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210536
+          ],
+          [
+            210536,
+            421072
+          ],
+          [
+            421072,
+            631608
+          ],
+          [
+            631608,
+            842144
+          ],
+          [
+            842144,
+            1052680
+          ],
+          [
+            1052680,
+            1263216
+          ]
+        ],
+        "num_entries": 1263216,
+        "uuid": "48e99904-0750-11f0-88f4-90bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/7a51b168-1ff3-4ec6-9e69-893ee1ae6797.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            201493
+          ],
+          [
+            201493,
+            402986
+          ],
+          [
+            402986,
+            604479
+          ],
+          [
+            604479,
+            805972
+          ],
+          [
+            805972,
+            1007465
+          ],
+          [
+            1007465,
+            1208954
+          ]
+        ],
+        "num_entries": 1208954,
+        "uuid": "68efdfda-0744-11f0-8c25-88cde183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/5f90c830-d580-4b3a-bd16-ec20fc866072.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            203871
+          ],
+          [
+            203871,
+            407742
+          ],
+          [
+            407742,
+            611613
+          ],
+          [
+            611613,
+            815484
+          ],
+          [
+            815484,
+            1019355
+          ],
+          [
+            1019355,
+            1223223
+          ]
+        ],
+        "num_entries": 1223223,
+        "uuid": "5c333132-0750-11f0-bfe3-25cee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/17ddce97-e87e-4094-966d-54eb6a8e8f0d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            186318
+          ],
+          [
+            186318,
+            372636
+          ],
+          [
+            372636,
+            558954
+          ],
+          [
+            558954,
+            745272
+          ],
+          [
+            745272,
+            931590
+          ],
+          [
+            931590,
+            1117906
+          ]
+        ],
+        "num_entries": 1117906,
+        "uuid": "3d3fdf14-0746-11f0-9065-32cfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/80ca4a09-6ecf-473e-9898-64711c0f4f59.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208384
+          ],
+          [
+            208384,
+            416768
+          ],
+          [
+            416768,
+            625152
+          ],
+          [
+            625152,
+            833536
+          ],
+          [
+            833536,
+            1041920
+          ],
+          [
+            1041920,
+            1250303
+          ]
+        ],
+        "num_entries": 1250303,
+        "uuid": "8782c9fe-0748-11f0-b5ed-1dbfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/f0fbc4e0-71ff-4eb9-9c6c-cc263036055f.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            201453
+          ],
+          [
+            201453,
+            402906
+          ],
+          [
+            402906,
+            604359
+          ],
+          [
+            604359,
+            805812
+          ],
+          [
+            805812,
+            1007265
+          ],
+          [
+            1007265,
+            1208714
+          ]
+        ],
+        "num_entries": 1208714,
+        "uuid": "e16bf2ca-0751-11f0-92d9-11bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/a48fc81b-f493-4d01-9768-fdc960c34c36.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210521
+          ],
+          [
+            210521,
+            421042
+          ],
+          [
+            421042,
+            631563
+          ],
+          [
+            631563,
+            842084
+          ],
+          [
+            842084,
+            1052605
+          ],
+          [
+            1052605,
+            1263121
+          ]
+        ],
+        "num_entries": 1263121,
+        "uuid": "de0885bc-0751-11f0-a270-6cbee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/74c5ba05-afc0-4080-a504-95f2d331312e.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            205521
+          ],
+          [
+            205521,
+            411042
+          ],
+          [
+            411042,
+            616563
+          ],
+          [
+            616563,
+            822084
+          ],
+          [
+            822084,
+            1027605
+          ],
+          [
+            1027605,
+            1233123
+          ]
+        ],
+        "num_entries": 1233123,
+        "uuid": "5bb1b3d2-0750-11f0-bfe3-0ecce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/2f2b8038-a5e4-4a29-ad0d-5709fbf17746.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208902
+          ],
+          [
+            208902,
+            417804
+          ],
+          [
+            417804,
+            626706
+          ],
+          [
+            626706,
+            835608
+          ],
+          [
+            835608,
+            1044510
+          ],
+          [
+            1044510,
+            1253408
+          ]
+        ],
+        "num_entries": 1253408,
+        "uuid": "434684e4-0746-11f0-a620-26bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/b7bce0d5-27f3-48e2-820b-edc5df869cc7.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210889
+          ],
+          [
+            210889,
+            421778
+          ],
+          [
+            421778,
+            632667
+          ],
+          [
+            632667,
+            843556
+          ],
+          [
+            843556,
+            1054445
+          ],
+          [
+            1054445,
+            1265334
+          ]
+        ],
+        "num_entries": 1265334,
+        "uuid": "defa212e-0751-11f0-bf6b-80bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/71911883-6608-4261-87f6-045437192d12.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207737
+          ],
+          [
+            207737,
+            415474
+          ],
+          [
+            415474,
+            623211
+          ],
+          [
+            623211,
+            830948
+          ],
+          [
+            830948,
+            1038685
+          ],
+          [
+            1038685,
+            1246422
+          ]
+        ],
+        "num_entries": 1246422,
+        "uuid": "4327aef2-0746-11f0-8bfc-9bbfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/a51def25-1a55-4ad1-b386-dcdd71068cc5.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207749
+          ],
+          [
+            207749,
+            415498
+          ],
+          [
+            415498,
+            623247
+          ],
+          [
+            623247,
+            830996
+          ],
+          [
+            830996,
+            1038745
+          ],
+          [
+            1038745,
+            1246491
+          ]
+        ],
+        "num_entries": 1246491,
+        "uuid": "67646292-0746-11f0-a3dc-37bde183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/467a90a5-2729-4ca8-bfc6-255d0da40205.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208086
+          ],
+          [
+            208086,
+            416172
+          ],
+          [
+            416172,
+            624258
+          ],
+          [
+            624258,
+            832344
+          ],
+          [
+            832344,
+            1040430
+          ],
+          [
+            1040430,
+            1248516
+          ]
+        ],
+        "num_entries": 1248516,
+        "uuid": "8a7743f6-0748-11f0-81d8-abbfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/cd21cf8c-a70f-4b1e-9483-fa54ec6455a9.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            206973
+          ],
+          [
+            206973,
+            413946
+          ],
+          [
+            413946,
+            620919
+          ],
+          [
+            620919,
+            827892
+          ],
+          [
+            827892,
+            1034865
+          ],
+          [
+            1034865,
+            1241836
+          ]
+        ],
+        "num_entries": 1241836,
+        "uuid": "bc2d96c0-0752-11f0-a265-58cfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/1302d37c-dd19-4a02-8b67-b588f3ab777e.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208753
+          ],
+          [
+            208753,
+            417506
+          ],
+          [
+            417506,
+            626259
+          ],
+          [
+            626259,
+            835012
+          ],
+          [
+            835012,
+            1043765
+          ],
+          [
+            1043765,
+            1252518
+          ]
+        ],
+        "num_entries": 1252518,
+        "uuid": "cc1da968-0751-11f0-b420-28bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/ee80dc1e-5b39-4e20-9117-6639c5222bb2.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208557
+          ],
+          [
+            208557,
+            417114
+          ],
+          [
+            417114,
+            625671
+          ],
+          [
+            625671,
+            834228
+          ],
+          [
+            834228,
+            1042785
+          ],
+          [
+            1042785,
+            1251342
+          ]
+        ],
+        "num_entries": 1251342,
+        "uuid": "8d65da3a-074f-11f0-8d87-4fbee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/91279202-2d38-4a12-8d31-01c5109c4baf.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208232
+          ],
+          [
+            208232,
+            416464
+          ],
+          [
+            416464,
+            624696
+          ],
+          [
+            624696,
+            832928
+          ],
+          [
+            832928,
+            1041160
+          ],
+          [
+            1041160,
+            1249387
+          ]
+        ],
+        "num_entries": 1249387,
+        "uuid": "e0518328-0751-11f0-9b6e-59bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/ae3758b7-0236-4846-8b3b-ec818ad7647e.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209089
+          ],
+          [
+            209089,
+            418178
+          ],
+          [
+            418178,
+            627267
+          ],
+          [
+            627267,
+            836356
+          ],
+          [
+            836356,
+            1045445
+          ],
+          [
+            1045445,
+            1254529
+          ]
+        ],
+        "num_entries": 1254529,
+        "uuid": "513dccba-0750-11f0-973c-3bcde183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/21ad0c9e-a8d2-4a5a-bcfa-074d812af703.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209846
+          ],
+          [
+            209846,
+            419692
+          ],
+          [
+            419692,
+            629538
+          ],
+          [
+            629538,
+            839384
+          ],
+          [
+            839384,
+            1049230
+          ],
+          [
+            1049230,
+            1259076
+          ]
+        ],
+        "num_entries": 1259076,
+        "uuid": "a8d27250-0755-11f0-a2a4-9bcce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/c1d69156-b838-4e42-8d28-94399d119c89.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/9f3b3aea-53a4-48cd-ab5f-44aae44e3bcf.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207624
+          ],
+          [
+            207624,
+            415248
+          ],
+          [
+            415248,
+            622872
+          ],
+          [
+            622872,
+            830496
+          ],
+          [
+            830496,
+            1038120
+          ],
+          [
+            1038120,
+            1245739
+          ]
+        ],
+        "num_entries": 1245739,
+        "uuid": "42877086-0746-11f0-b813-97bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/fc5f6ab4-4e4a-4c0c-bc4b-67b1d0b00a86.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207293
+          ],
+          [
+            207293,
+            414586
+          ],
+          [
+            414586,
+            621879
+          ],
+          [
+            621879,
+            829172
+          ],
+          [
+            829172,
+            1036465
+          ],
+          [
+            1036465,
+            1243755
+          ]
+        ],
+        "num_entries": 1243755,
+        "uuid": "f99afa4e-0751-11f0-9cca-c9cfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/00e767fc-46eb-4ed4-9d8f-0d026e2339f8.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210049
+          ],
+          [
+            210049,
+            420098
+          ],
+          [
+            420098,
+            630147
+          ],
+          [
+            630147,
+            840196
+          ],
+          [
+            840196,
+            1050245
+          ],
+          [
+            1050245,
+            1260290
+          ]
+        ],
+        "num_entries": 1260290,
+        "uuid": "ba3689ec-0754-11f0-89d3-f8cee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/7c0cb1c8-c87d-4484-94aa-07ce36059908.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208015
+          ],
+          [
+            208015,
+            416030
+          ],
+          [
+            416030,
+            624045
+          ],
+          [
+            624045,
+            832060
+          ],
+          [
+            832060,
+            1040075
+          ],
+          [
+            1040075,
+            1248090
+          ]
+        ],
+        "num_entries": 1248090,
+        "uuid": "f88aad20-0751-11f0-9cca-1ecee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/a24da425-17a3-45af-a952-2d949fa5ac07.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208108
+          ],
+          [
+            208108,
+            416216
+          ],
+          [
+            416216,
+            624324
+          ],
+          [
+            624324,
+            832432
+          ],
+          [
+            832432,
+            1040540
+          ],
+          [
+            1040540,
+            1248647
+          ]
+        ],
+        "num_entries": 1248647,
+        "uuid": "87d6c626-0748-11f0-a155-5dcee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/105dc6e8-8bc3-4e7a-aae5-7f90569b8c0c.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210016
+          ],
+          [
+            210016,
+            420032
+          ],
+          [
+            420032,
+            630048
+          ],
+          [
+            630048,
+            840064
+          ],
+          [
+            840064,
+            1050080
+          ],
+          [
+            1050080,
+            1260093
+          ]
+        ],
+        "num_entries": 1260093,
+        "uuid": "e4d9d1c0-0751-11f0-ba7a-aabfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/baeacc43-d0cc-4a73-b2e1-49cfd9aff790.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            206702
+          ],
+          [
+            206702,
+            413404
+          ],
+          [
+            413404,
+            620106
+          ],
+          [
+            620106,
+            826808
+          ],
+          [
+            826808,
+            1033510
+          ],
+          [
+            1033510,
+            1240210
+          ]
+        ],
+        "num_entries": 1240210,
+        "uuid": "541c4062-074e-11f0-a560-c8cce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/cfc7d009-2fd2-4e71-b54a-28699f8934df.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207200
+          ],
+          [
+            207200,
+            414400
+          ],
+          [
+            414400,
+            621600
+          ],
+          [
+            621600,
+            828800
+          ],
+          [
+            828800,
+            1036000
+          ],
+          [
+            1036000,
+            1243197
+          ]
+        ],
+        "num_entries": 1243197,
+        "uuid": "46cd3a72-0750-11f0-ada8-e1cee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/3185b7d9-101e-4a05-9d22-8667c090366d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            211325
+          ],
+          [
+            211325,
+            422650
+          ],
+          [
+            422650,
+            633975
+          ],
+          [
+            633975,
+            845300
+          ],
+          [
+            845300,
+            1056625
+          ],
+          [
+            1056625,
+            1267948
+          ]
+        ],
+        "num_entries": 1267948,
+        "uuid": "4ae5e42e-0750-11f0-8340-7bbee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/c60e434a-5876-405f-8f8f-b670e4dee73d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            108286
+          ]
+        ],
+        "num_entries": 108286,
+        "uuid": "467123ce-0875-11f0-90ce-41bde183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/ce502ff8-768d-4d1d-95d7-b7f10d4d1651.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            206767
+          ],
+          [
+            206767,
+            413534
+          ],
+          [
+            413534,
+            620301
+          ],
+          [
+            620301,
+            827068
+          ],
+          [
+            827068,
+            1033835
+          ],
+          [
+            1033835,
+            1240602
+          ]
+        ],
+        "num_entries": 1240602,
+        "uuid": "7783f262-0748-11f0-88dc-6ebee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/c785a7ce-d63d-4f47-9b49-4f0e664ce47f.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210306
+          ],
+          [
+            210306,
+            420612
+          ],
+          [
+            420612,
+            630918
+          ],
+          [
+            630918,
+            841224
+          ],
+          [
+            841224,
+            1051530
+          ],
+          [
+            1051530,
+            1261834
+          ]
+        ],
+        "num_entries": 1261834,
+        "uuid": "64800088-0744-11f0-aec8-7ebce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/f94a8181-536f-4606-8d22-99f0a23360f9.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            206899
+          ],
+          [
+            206899,
+            413798
+          ],
+          [
+            413798,
+            620697
+          ],
+          [
+            620697,
+            827596
+          ],
+          [
+            827596,
+            1034495
+          ],
+          [
+            1034495,
+            1241394
+          ]
+        ],
+        "num_entries": 1241394,
+        "uuid": "df909b0e-0751-11f0-b5da-7ebee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/b5e36e45-2683-441b-9804-1cd5f69d31b6.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            212510
+          ],
+          [
+            212510,
+            425020
+          ],
+          [
+            425020,
+            637530
+          ],
+          [
+            637530,
+            850040
+          ],
+          [
+            850040,
+            1062550
+          ],
+          [
+            1062550,
+            1275057
+          ]
+        ],
+        "num_entries": 1275057,
+        "uuid": "0963424c-0752-11f0-8fb0-34cfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/4a68c1fb-cf40-449b-b95d-eb37e0f42c5e.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            214913
+          ],
+          [
+            214913,
+            429826
+          ],
+          [
+            429826,
+            644739
+          ],
+          [
+            644739,
+            859652
+          ],
+          [
+            859652,
+            1074562
+          ]
+        ],
+        "num_entries": 1074562,
+        "uuid": "a700fe3e-074f-11f0-976c-94cce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/8db52e0a-8520-4f7f-a938-a2cff1eb64d4.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208690
+          ],
+          [
+            208690,
+            417380
+          ],
+          [
+            417380,
+            626070
+          ],
+          [
+            626070,
+            834760
+          ],
+          [
+            834760,
+            1043450
+          ],
+          [
+            1043450,
+            1252138
+          ]
+        ],
+        "num_entries": 1252138,
+        "uuid": "4bc33798-0746-11f0-b325-35bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/b65a0bb0-8c8a-4f4b-bcd9-9bbdacbe0527.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207427
+          ],
+          [
+            207427,
+            414854
+          ],
+          [
+            414854,
+            622281
+          ],
+          [
+            622281,
+            829708
+          ],
+          [
+            829708,
+            1037135
+          ],
+          [
+            1037135,
+            1244557
+          ]
+        ],
+        "num_entries": 1244557,
+        "uuid": "4d852f00-0746-11f0-aa70-4ecee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/7b8c93ac-1382-4aca-9b8e-db1033d80902.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208098
+          ],
+          [
+            208098,
+            416196
+          ],
+          [
+            416196,
+            624294
+          ],
+          [
+            624294,
+            832392
+          ],
+          [
+            832392,
+            1040490
+          ],
+          [
+            1040490,
+            1248587
+          ]
+        ],
+        "num_entries": 1248587,
+        "uuid": "47a75c5c-0750-11f0-88f4-25bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/0aea5ec2-7858-4a0e-a8f2-9355064d7f88.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209387
+          ],
+          [
+            209387,
+            418774
+          ],
+          [
+            418774,
+            628161
+          ],
+          [
+            628161,
+            837548
+          ],
+          [
+            837548,
+            1046935
+          ],
+          [
+            1046935,
+            1256320
+          ]
+        ],
+        "num_entries": 1256320,
+        "uuid": "f596e7aa-0751-11f0-9b8d-52cee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/34fc45ad-2225-4391-ae28-b0da224c7020.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            201653
+          ],
+          [
+            201653,
+            403306
+          ],
+          [
+            403306,
+            604959
+          ],
+          [
+            604959,
+            806612
+          ],
+          [
+            806612,
+            1008265
+          ],
+          [
+            1008265,
+            1209918
+          ]
+        ],
+        "num_entries": 1209918,
+        "uuid": "e4942f3a-0751-11f0-9c10-26bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/83808c03-17bf-4d5d-8c20-8f56add66c0d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207710
+          ],
+          [
+            207710,
+            415420
+          ],
+          [
+            415420,
+            623130
+          ],
+          [
+            623130,
+            830840
+          ],
+          [
+            830840,
+            1038550
+          ],
+          [
+            1038550,
+            1246260
+          ]
+        ],
+        "num_entries": 1246260,
+        "uuid": "e1eda662-0751-11f0-8928-36bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/c7522f2d-2bc8-44d3-b999-5e7274a45502.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            205191
+          ],
+          [
+            205191,
+            410382
+          ],
+          [
+            410382,
+            615573
+          ],
+          [
+            615573,
+            820764
+          ],
+          [
+            820764,
+            1025955
+          ],
+          [
+            1025955,
+            1231141
+          ]
+        ],
+        "num_entries": 1231141,
+        "uuid": "f677edfe-0751-11f0-9200-f8cfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/5db4ce94-bbb9-4bea-981b-85178eff3d59.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209534
+          ],
+          [
+            209534,
+            419068
+          ],
+          [
+            419068,
+            628602
+          ],
+          [
+            628602,
+            838136
+          ],
+          [
+            838136,
+            1047670
+          ],
+          [
+            1047670,
+            1257203
+          ]
+        ],
+        "num_entries": 1257203,
+        "uuid": "72344eba-0748-11f0-99b2-98bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/a974706f-198e-41a5-aaf8-4e0f023dfd3f.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208928
+          ],
+          [
+            208928,
+            417856
+          ],
+          [
+            417856,
+            626784
+          ],
+          [
+            626784,
+            835712
+          ],
+          [
+            835712,
+            1044640
+          ],
+          [
+            1044640,
+            1253566
+          ]
+        ],
+        "num_entries": 1253566,
+        "uuid": "4c6e9610-0750-11f0-b1f3-82bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/70da9382-b23d-401a-a051-63fd0eba3ac1.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207191
+          ],
+          [
+            207191,
+            414382
+          ],
+          [
+            414382,
+            621573
+          ],
+          [
+            621573,
+            828764
+          ],
+          [
+            828764,
+            1035955
+          ],
+          [
+            1035955,
+            1243141
+          ]
+        ],
+        "num_entries": 1243141,
+        "uuid": "3f18597e-0750-11f0-bc7a-19bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/a9e80689-a1d5-4da8-8d8c-bfda4dcdace0.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            205796
+          ],
+          [
+            205796,
+            411592
+          ],
+          [
+            411592,
+            617388
+          ],
+          [
+            617388,
+            823184
+          ],
+          [
+            823184,
+            1028980
+          ],
+          [
+            1028980,
+            1234773
+          ]
+        ],
+        "num_entries": 1234773,
+        "uuid": "f13ef36e-0751-11f0-b3f8-72bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/b1c241d9-7e37-43e5-a564-6805da26bf66.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207584
+          ],
+          [
+            207584,
+            415168
+          ],
+          [
+            415168,
+            622752
+          ],
+          [
+            622752,
+            830336
+          ],
+          [
+            830336,
+            1037920
+          ],
+          [
+            1037920,
+            1245502
+          ]
+        ],
+        "num_entries": 1245502,
+        "uuid": "8656470e-0748-11f0-9985-42bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/f93e6fcc-acd6-4a7d-933f-591902c2aa0a.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            205268
+          ],
+          [
+            205268,
+            410536
+          ],
+          [
+            410536,
+            615804
+          ],
+          [
+            615804,
+            821072
+          ],
+          [
+            821072,
+            1026340
+          ],
+          [
+            1026340,
+            1231606
+          ]
+        ],
+        "num_entries": 1231606,
+        "uuid": "50c8aa34-0746-11f0-bcd9-c5cfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/8f048c6e-dda9-4fdf-9078-ef9c7ea07216.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            203651
+          ],
+          [
+            203651,
+            407302
+          ],
+          [
+            407302,
+            610953
+          ],
+          [
+            610953,
+            814604
+          ],
+          [
+            814604,
+            1018255
+          ],
+          [
+            1018255,
+            1221904
+          ]
+        ],
+        "num_entries": 1221904,
+        "uuid": "50e8b08e-075c-11f0-a46e-6ccde183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/2ac62774-e7c2-4a79-b51d-54ff75e0d251.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208215
+          ],
+          [
+            208215,
+            416430
+          ],
+          [
+            416430,
+            624645
+          ],
+          [
+            624645,
+            832860
+          ],
+          [
+            832860,
+            1041075
+          ],
+          [
+            1041075,
+            1249289
+          ]
+        ],
+        "num_entries": 1249289,
+        "uuid": "df4cbfce-0751-11f0-bf6b-57bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/4efb6c0a-f9dd-4bf4-a6e3-0df6bc144c29.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209627
+          ],
+          [
+            209627,
+            419254
+          ],
+          [
+            419254,
+            628881
+          ],
+          [
+            628881,
+            838508
+          ],
+          [
+            838508,
+            1048135
+          ],
+          [
+            1048135,
+            1257762
+          ]
+        ],
+        "num_entries": 1257762,
+        "uuid": "a780cc06-0748-11f0-b087-87bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/9d50411f-e876-4eed-9c36-4369dec546db.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            193575
+          ],
+          [
+            193575,
+            387150
+          ],
+          [
+            387150,
+            580725
+          ],
+          [
+            580725,
+            774300
+          ],
+          [
+            774300,
+            967875
+          ],
+          [
+            967875,
+            1161447
+          ]
+        ],
+        "num_entries": 1161447,
+        "uuid": "4cb70d08-075c-11f0-99d5-9fbce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/b806ee4a-8fd5-4ec1-98db-6c8e3d15e109.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207451
+          ],
+          [
+            207451,
+            414902
+          ],
+          [
+            414902,
+            622353
+          ],
+          [
+            622353,
+            829804
+          ],
+          [
+            829804,
+            1037255
+          ],
+          [
+            1037255,
+            1244702
+          ]
+        ],
+        "num_entries": 1244702,
+        "uuid": "3f6948f2-0750-11f0-b482-82bee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/c68269f9-f3c1-444c-83a4-3ff72cda4d0d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            176353
+          ],
+          [
+            176353,
+            352706
+          ],
+          [
+            352706,
+            529059
+          ],
+          [
+            529059,
+            705412
+          ]
+        ],
+        "num_entries": 705412,
+        "uuid": "b6ca86dc-0754-11f0-939c-77bde183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/04afc808-e994-4a7f-afa5-79e30fb2485f.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            208071
+          ],
+          [
+            208071,
+            416142
+          ],
+          [
+            416142,
+            624213
+          ],
+          [
+            624213,
+            832284
+          ],
+          [
+            832284,
+            1040355
+          ],
+          [
+            1040355,
+            1248423
+          ]
+        ],
+        "num_entries": 1248423,
+        "uuid": "f80e0950-0751-11f0-9200-3dbde183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/cc7147a3-a062-44c9-b218-b0b37905cbd2.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            214095
+          ],
+          [
+            214095,
+            428190
+          ],
+          [
+            428190,
+            642283
+          ]
+        ],
+        "num_entries": 642283,
+        "uuid": "be4e9bec-075d-11f0-8396-7cbee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/0c2488c6-8079-4cd1-8c17-34debec6e146.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210601
+          ],
+          [
+            210601,
+            421202
+          ],
+          [
+            421202,
+            631803
+          ],
+          [
+            631803,
+            842404
+          ],
+          [
+            842404,
+            1053005
+          ],
+          [
+            1053005,
+            1263601
+          ]
+        ],
+        "num_entries": 1263601,
+        "uuid": "e1dbeee0-0751-11f0-adc0-03bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/f9acd322-363d-4328-a1ec-833d9ec6039c.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            213922
+          ],
+          [
+            213922,
+            427844
+          ],
+          [
+            427844,
+            641766
+          ],
+          [
+            641766,
+            855688
+          ],
+          [
+            855688,
+            1069610
+          ],
+          [
+            1069610,
+            1283528
+          ]
+        ],
+        "num_entries": 1283528,
+        "uuid": "4f24652e-0750-11f0-a090-82cfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/b9808c5b-ef25-47ff-8384-2d71a8575629.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            205747
+          ],
+          [
+            205747,
+            411494
+          ],
+          [
+            411494,
+            617241
+          ],
+          [
+            617241,
+            822988
+          ],
+          [
+            822988,
+            1028735
+          ],
+          [
+            1028735,
+            1234479
+          ]
+        ],
+        "num_entries": 1234479,
+        "uuid": "ee0c3b16-0751-11f0-aa38-fccee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/7f6c9b21-3633-42f0-9fac-39d472dab4f2.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            207745
+          ],
+          [
+            207745,
+            415490
+          ],
+          [
+            415490,
+            623235
+          ],
+          [
+            623235,
+            830980
+          ],
+          [
+            830980,
+            1038725
+          ],
+          [
+            1038725,
+            1246466
+          ]
+        ],
+        "num_entries": 1246466,
+        "uuid": "507a82c8-0746-11f0-bcd9-82cfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/0d3a709c-bd79-4889-a571-7e65cc5880b2.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            211500
+          ],
+          [
+            211500,
+            423000
+          ],
+          [
+            423000,
+            634500
+          ],
+          [
+            634500,
+            846000
+          ],
+          [
+            846000,
+            1057500
+          ],
+          [
+            1057500,
+            1268995
+          ]
+        ],
+        "num_entries": 1268995,
+        "uuid": "4bfc0b72-0750-11f0-9587-79bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/77648e6e-9e5d-405d-ac7c-9ce2e7f09c28.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209416
+          ],
+          [
+            209416,
+            418832
+          ],
+          [
+            418832,
+            628248
+          ],
+          [
+            628248,
+            837664
+          ],
+          [
+            837664,
+            1047080
+          ],
+          [
+            1047080,
+            1256494
+          ]
+        ],
+        "num_entries": 1256494,
+        "uuid": "915f6e94-074f-11f0-973e-5ebee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/f76546ac-ea6e-4e7a-9a48-e5dde4f19f4e.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            218937
+          ],
+          [
+            218937,
+            437874
+          ],
+          [
+            437874,
+            656811
+          ],
+          [
+            656811,
+            875746
+          ]
+        ],
+        "num_entries": 875746,
+        "uuid": "2e9717fe-0762-11f0-a6c1-72bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/0ed67a9a-d0aa-4149-8f14-48cc39c42910.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            206080
+          ],
+          [
+            206080,
+            412160
+          ],
+          [
+            412160,
+            618240
+          ],
+          [
+            618240,
+            824320
+          ],
+          [
+            824320,
+            1030400
+          ],
+          [
+            1030400,
+            1236478
+          ]
+        ],
+        "num_entries": 1236478,
+        "uuid": "8cdb3d50-0748-11f0-809d-7cbce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/70995da5-c903-42cd-9cfe-7e8eeaa8c942.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            205600
+          ],
+          [
+            205600,
+            411200
+          ],
+          [
+            411200,
+            616800
+          ],
+          [
+            616800,
+            822400
+          ],
+          [
+            822400,
+            1028000
+          ],
+          [
+            1028000,
+            1233597
+          ]
+        ],
+        "num_entries": 1233597,
+        "uuid": "f911a3ac-0751-11f0-a4d0-71bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/5f0835bc-1f17-4890-ac82-46a59c59c2e7.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            181364
+          ],
+          [
+            181364,
+            362728
+          ],
+          [
+            362728,
+            544092
+          ],
+          [
+            544092,
+            725456
+          ]
+        ],
+        "num_entries": 725456,
+        "uuid": "b79e3590-0768-11f0-b5da-90bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/36327cbd-536b-453e-9089-a60e38cde9ed.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            211668
+          ],
+          [
+            211668,
+            423336
+          ],
+          [
+            423336,
+            635004
+          ],
+          [
+            635004,
+            846672
+          ],
+          [
+            846672,
+            1058340
+          ],
+          [
+            1058340,
+            1270005
+          ]
+        ],
+        "num_entries": 1270005,
+        "uuid": "97de2a6c-074f-11f0-9016-62cfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/2ca77074-e29c-48ac-8451-b2a7d9e9ae2b.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210647
+          ],
+          [
+            210647,
+            421294
+          ],
+          [
+            421294,
+            631941
+          ],
+          [
+            631941,
+            842588
+          ],
+          [
+            842588,
+            1053235
+          ],
+          [
+            1053235,
+            1263882
+          ]
+        ],
+        "num_entries": 1263882,
+        "uuid": "b0a2ded2-0748-11f0-9a94-8acce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/02eed90a-3b26-478c-8374-75e6b503750f.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            211746
+          ],
+          [
+            211746,
+            423492
+          ],
+          [
+            423492,
+            635238
+          ],
+          [
+            635238,
+            846984
+          ],
+          [
+            846984,
+            1058730
+          ],
+          [
+            1058730,
+            1270474
+          ]
+        ],
+        "num_entries": 1270474,
+        "uuid": "4f4a8416-0750-11f0-a090-52cee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/56d52aea-af61-4fbd-a742-53693d25adef.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209856
+          ],
+          [
+            209856,
+            419712
+          ],
+          [
+            419712,
+            629568
+          ],
+          [
+            629568,
+            839424
+          ],
+          [
+            839424,
+            1049280
+          ],
+          [
+            1049280,
+            1259132
+          ]
+        ],
+        "num_entries": 1259132,
+        "uuid": "4ceabd30-0750-11f0-85b3-a0bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/761fe849-46a6-47d6-9819-32536b5a223d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210380
+          ],
+          [
+            210380,
+            420760
+          ],
+          [
+            420760,
+            631140
+          ],
+          [
+            631140,
+            841520
+          ],
+          [
+            841520,
+            1051900
+          ],
+          [
+            1051900,
+            1262278
+          ]
+        ],
+        "num_entries": 1262278,
+        "uuid": "475158b6-0750-11f0-88f4-3fbee183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/dfe397d5-2dce-4587-88ea-57cb70c4b465.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            209532
+          ],
+          [
+            209532,
+            419064
+          ],
+          [
+            419064,
+            628596
+          ],
+          [
+            628596,
+            838128
+          ],
+          [
+            838128,
+            1047660
+          ],
+          [
+            1047660,
+            1257187
+          ]
+        ],
+        "num_entries": 1257187,
+        "uuid": "b3467926-0754-11f0-ada0-d0bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/2e1e1a84-1897-4b7d-835f-8b7e9b318d92.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            210490
+          ],
+          [
+            210490,
+            420980
+          ],
+          [
+            420980,
+            631470
+          ],
+          [
+            631470,
+            841960
+          ],
+          [
+            841960,
+            1052450
+          ],
+          [
+            1052450,
+            1262936
+          ]
+        ],
+        "num_entries": 1262936,
+        "uuid": "b4fccdce-0754-11f0-a4b9-0cbfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/3062b3a9-16f6-463b-b892-e5b0a1a1c503.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            245994
+          ],
+          [
+            245994,
+            491988
+          ]
+        ],
+        "num_entries": 491988,
+        "uuid": "aa5503a6-0834-11f0-9b8f-0103fea9beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/b938f292-1097-4aa0-b2f8-1650cf637b5b.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            175029
+          ],
+          [
+            175029,
+            350058
+          ],
+          [
+            350058,
+            525087
+          ],
+          [
+            525087,
+            700114
+          ]
+        ],
+        "num_entries": 700114,
+        "uuid": "2be88750-075c-11f0-ad8d-92e36880beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/efab065a-5e79-40ea-8b9c-c6a06388e5bc.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            186793
+          ],
+          [
+            186793,
+            373586
+          ],
+          [
+            373586,
+            560379
+          ],
+          [
+            560379,
+            747169
+          ]
+        ],
+        "num_entries": 747169,
+        "uuid": "3163627c-075c-11f0-8a5e-0103fea9beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/6ab5d154-38b7-43f6-add1-a27ec1756887.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            196884
+          ],
+          [
+            196884,
+            393768
+          ],
+          [
+            393768,
+            590652
+          ],
+          [
+            590652,
+            787533
+          ]
+        ],
+        "num_entries": 787533,
+        "uuid": "57a9c588-0767-11f0-9f10-9bb45c90beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/9f298a99-1aa2-46d1-9c8f-067e3af9e475.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            201876
+          ],
+          [
+            201876,
+            403752
+          ],
+          [
+            403752,
+            605627
+          ]
+        ],
+        "num_entries": 605627,
+        "uuid": "7b0f0952-07b2-11f0-a731-a0e5b49dbeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/1dd6ff3c-2aa2-4f2a-8e92-b3882f6dd3d7.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            129741
+          ]
+        ],
+        "num_entries": 129741,
+        "uuid": "46d67faa-0873-11f0-907b-cbe5b49dbeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/10a92204-a744-4d8d-8947-431848fc376d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            202394
+          ],
+          [
+            202394,
+            404788
+          ],
+          [
+            404788,
+            607181
+          ]
+        ],
+        "num_entries": 607181,
+        "uuid": "6ce491d8-0750-11f0-bc7b-4b18000abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/c1985144-57a6-47aa-85c2-506a6a369d3c.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            231908
+          ],
+          [
+            231908,
+            463816
+          ],
+          [
+            463816,
+            695722
+          ]
+        ],
+        "num_entries": 695722,
+        "uuid": "886aab30-0751-11f0-a952-0219000abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/e325ebff-bca8-4fc6-8e78-12e2213726c2.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            180481
+          ],
+          [
+            180481,
+            360962
+          ],
+          [
+            360962,
+            541443
+          ],
+          [
+            541443,
+            721924
+          ],
+          [
+            721924,
+            902404
+          ]
+        ],
+        "num_entries": 902404,
+        "uuid": "ebcaeae4-075d-11f0-9294-900e000abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/452fbee0-3e9f-4c9d-aa5e-f34d86d75c41.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            201144
+          ],
+          [
+            201144,
+            402288
+          ],
+          [
+            402288,
+            603432
+          ],
+          [
+            603432,
+            804576
+          ],
+          [
+            804576,
+            1005716
+          ]
+        ],
+        "num_entries": 1005716,
+        "uuid": "c6a98d90-075f-11f0-bf07-8318000abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/5abbfef0-6e3e-49e4-9406-56c89d3c0b65.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            192265
+          ],
+          [
+            192265,
+            384530
+          ],
+          [
+            384530,
+            576795
+          ],
+          [
+            576795,
+            769057
+          ]
+        ],
+        "num_entries": 769057,
+        "uuid": "df6214a6-075f-11f0-af41-b918000abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/b75d10c2-192b-4095-a1ce-04b5be1c1235.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            223559
+          ],
+          [
+            223559,
+            447118
+          ],
+          [
+            447118,
+            670676
+          ]
+        ],
+        "num_entries": 670676,
+        "uuid": "d1ab3862-0767-11f0-a586-171c000abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/dcf6f664-3121-46e0-8215-2a4f83473d92.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            230346
+          ],
+          [
+            230346,
+            460692
+          ],
+          [
+            460692,
+            691036
+          ]
+        ],
+        "num_entries": 691036,
+        "uuid": "8255d4aa-0773-11f0-acce-9920000abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/bdef4c04-fda3-4601-af97-09fbf10263bb.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/37291b52-4868-4579-8c63-ba851b12ba3a.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            233042
+          ]
+        ],
+        "num_entries": 233042,
+        "uuid": "e7f477a4-0853-11f0-8f3f-3519000abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/07c26df5-93ed-4c30-af21-81d2a07512bd.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            98898
+          ]
+        ],
+        "num_entries": 98898,
+        "uuid": "378975a2-0936-11f0-8187-48828e80beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/54c1c6b8-205f-4614-8ba7-f56ffca9e778.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            28524
+          ]
+        ],
+        "num_entries": 28524,
+        "uuid": "94f94bc2-0936-11f0-84bc-aa84e4a9beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/2d8770d8-9bdd-47be-b0ba-a101e4d3c93f.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            27204
+          ]
+        ],
+        "num_entries": 27204,
+        "uuid": "3569ef6c-094b-11f0-b0ab-030b030abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/8cca1398-c150-4778-8098-5abae4a2cc34.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            54783
+          ]
+        ],
+        "num_entries": 54783,
+        "uuid": "947ae526-0912-11f0-88ef-a4e36880beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/874d7ee9-87e4-4536-aa12-49ec315a8224.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/e31d238d-62ea-43c6-a9ff-22a52dc900f9.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            26313
+          ]
+        ],
+        "num_entries": 26313,
+        "uuid": "e723ab8c-0bc4-11f0-acfa-91e36880beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/cdd6b2db-051c-4b66-91a6-b6434df1ed9b.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            26979
+          ]
+        ],
+        "num_entries": 26979,
+        "uuid": "fd3b3bee-0be0-11f0-89c7-12041cacbeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/d9f97116-c25e-4b2e-a141-32c7cc9c63bd.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/619c5ccd-fc59-49f0-9785-62f02545b692.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            161222
+          ]
+        ],
+        "num_entries": 161222,
+        "uuid": "52ec3d8e-081e-11f0-a119-2b803c0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/0f27c28a-82b1-4e96-b928-f93fd5876ab6.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/cb9549d6-01e4-4fc6-a5c8-71fad9f1653e.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            171317
+          ]
+        ],
+        "num_entries": 171317,
+        "uuid": "94e8c9a4-082e-11f0-b068-9bce36c0beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/110000/3ce1ea31-b831-429c-8e6d-d2b5467035fd.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/2530000/9992789f-aca9-4bb8-9f32-e6c93cf5d52d.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/2530000/e6234ccf-d8dd-4551-8b6e-3295701e7b14.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma0/NANOAOD/MINIv6NANOv15-v1/2530000/9c332ffd-0fb0-4803-8d58-31f6181d0277.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            299992
+          ]
+        ],
+        "num_entries": 299992,
+        "uuid": "25244a90-0eb8-11f0-b463-cdcfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/da8e0642-85ce-46a6-b690-2f858b7a66c0.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/c30ec89a-a315-4d15-a422-1ba56e1ff158.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/096b583c-74ea-44ef-845c-e7144ffcbc5a.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/f893368d-73f2-4eed-afe0-04dd8c727a95.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/59a3d425-656f-4270-a0a1-12d595093ff9.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/8d028139-19cd-4808-9bc2-fe2eb21c447e.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/53611059-c2bf-4eca-bdcf-ac95fb6e1d13.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/3f8c2b0d-fe47-45cc-bff6-8c657b5e3aff.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/c3ba0187-727f-43cb-abc5-48afccc9c427.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/f032e1b8-9ad5-413d-b339-b558e8287736.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/5cc6762a-d7bc-42d2-88d0-19c8bd771894.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/661cccab-7951-4e87-83f5-2b1540487508.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/ff442402-23c5-4195-a48f-ebf045286618.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/9045a586-5a34-417a-8530-ac24c015ca52.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/b82e84a1-d91a-435b-8b39-f88d87b87243.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/fe076a97-4c5d-4e70-8d1a-b95ec6c13b0f.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/e3cc9bf2-4d28-4029-b25e-3d812c6321db.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/e1cf3a69-48cd-4317-9ad7-387c74cf2653.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/7c778536-6054-4105-b540-400daf9e9b19.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/62ec6476-b514-433a-bd46-940ac52d4b83.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/60835126-fa66-416c-a830-e3a50d3916cc.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/f33ba70e-7491-4bce-ac84-582698cca691.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/b1b15e9e-bf3c-412d-a565-396f7de50963.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/ffa41e88-51ee-471c-bc08-b623eddd70ed.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/a93ea4f6-eda5-48ee-9b18-4463415aeace.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/009110c4-7c15-49eb-8344-0e5c38aa99d4.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/9452ebcd-0f33-4660-9fa7-4aebf177e0c7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/962d6f4b-c0c7-4ec2-8b75-e243f8ceb2d1.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/c9768fde-8c69-4d17-a64f-f11531f1d97f.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/4119b5f3-0894-44f7-ba8d-aa0f26661d85.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/f0f75bd3-b624-4491-b033-51a27b6ba8bd.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/96a2cf44-c6b3-458a-bd77-0668560d9ff4.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/8027fd01-b5f5-41aa-83c5-1883797a93d9.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/30517863-8b0b-427c-afca-61a82f998cae.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/88fce445-4192-437b-be52-6d4525e32db7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/3717cc79-38dc-48f5-8374-5d9fdd62f2ed.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/6b3fed93-fa76-4a70-af4d-c5cd8807b6a5.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/b13c0729-6dd7-445d-ac0b-e9ffaf8b0538.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/64bc8c01-0a55-4821-bbcd-658a96a3eaa2.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/531f5095-ac37-45c0-be63-66a64757e643.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/d70bd308-e81c-4c6f-9845-c0929bf60119.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/bfafd547-4115-44cc-a69a-d5e09820a3b6.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/375a3576-3ab5-40f4-b5ae-4f5cc9cef329.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/02dc5c30-12b5-4b12-a697-4bfe7cd0d9c9.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/7ef039f1-f474-426a-8ebb-48136e218aba.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/90098212-c5a2-4f84-874c-4156ac64e690.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/fc7b026a-c541-4739-898d-edea7e479816.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/3ddacf13-83bb-41c0-95d9-410cdc723cd0.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/c13579cf-a1bd-4f78-83bc-8e3edec4d347.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/5f3265a2-40dd-44da-b716-483f3e5de04d.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/07f906f9-6c0f-46f1-b6a6-99cd5b7633b4.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/87d61634-7040-4dd8-bd56-658e8dea683c.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/70105ace-1ee5-4bac-94de-b596a19aadfc.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/35bd29fd-5022-4f07-bebc-6be082ce49d8.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/e5d6cbfa-8454-4725-9bd4-074916d4f7d7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/b5a39c60-1feb-49ed-bc9e-63eb427998fa.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/21557333-f7e2-4b2a-b42b-41a158f5fac4.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/8b3a4d44-7c8f-4821-8ac2-a9df6cc2c7f0.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/d18b83fd-fb6c-4e93-8b33-b7822aff16ec.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/4113ffe3-fd0c-4822-81c4-058539a8a9d0.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/ff54b3d8-33a4-4db7-9dc7-f13ba2c156a9.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/de907e27-5f4b-4d09-a65a-9f08effcfa35.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/f1aa7608-4fa0-4f30-99f4-600d0444b8d2.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/110c9d53-8ec7-4c05-a202-d50401b4987f.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/cf13dd63-3ae6-476d-8050-18986672dddc.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/bae813f7-34fd-4919-8680-8e8ed8470278.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/b1edc84b-fd73-416a-b22a-ab78a0d57e82.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/78b9258d-21dc-4bea-9390-5891be017c3a.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/28f0e0d5-5824-4032-a1d5-62e080d804df.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/e771ff4c-0e83-4dd2-a383-bc0d2570379b.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/c6142602-647a-4635-97bd-e31725a87fbd.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/e3d932ab-96b5-411b-81ea-96e04ae67051.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/ac9db2b6-c2ab-4b1c-b973-efc88ad3e6a9.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/c20dbafb-0ffb-4c38-9811-de543cc290c9.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/5b59a183-57ba-45e2-9498-de38e3371d24.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/46ecc907-b1da-43b7-b603-2d10290a5736.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/a517a3ba-40e0-4127-9c77-68705ee2d52a.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/5a5823d7-58e7-4fcf-a998-d5ac276e3793.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/0a497cb8-4ad6-4aa1-af08-bf1ddb032ce1.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/e4fddfd6-42f8-4ad7-b088-d13d42bf6b42.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/7ea6f64c-ea24-4c5c-84d1-5a03e4656d4e.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/b3d1d9e5-5d3d-45e5-a7c9-243d7e6e2442.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            215002
+          ],
+          [
+            215002,
+            430004
+          ],
+          [
+            430004,
+            645006
+          ]
+        ],
+        "num_entries": 645006,
+        "uuid": "b7f42392-077c-11f0-8ecf-92ce36c0beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/65cd9c93-5121-42d9-9b6b-c39a2d941ece.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/9bb88422-5d5a-4bb1-8da0-6ed9d4bbf3f8.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/10a8ca71-ec07-4449-b289-456a2c5eb6c8.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/9c0b5bb2-cb80-4116-9d4d-c9f7f54e3292.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/2ac8bedd-28a2-49e8-a3f9-01bddeb98aa7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/a829d6a2-b473-4329-84c7-761e802c6f95.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/3f4d99d1-bf3a-4fea-9727-4d037d1084e6.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/7a81a4b0-40a1-4fcc-8d1e-f3f8a4b0e7b3.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/b028e311-3424-42c6-ac48-fa63a06d160f.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/4fe68368-0aab-4165-a782-b595ea3f44eb.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/fa0a5ac4-2eb2-49ed-9d47-c985bf4deb46.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/84fe0a3d-67c5-49dd-af4f-5b7ded74cb94.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/48aaf106-9fe8-4fd4-b295-708f873a9a62.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            181020
+          ],
+          [
+            181020,
+            362040
+          ],
+          [
+            362040,
+            543058
+          ]
+        ],
+        "num_entries": 543058,
+        "uuid": "127498b6-08a3-11f0-8674-6ea4a983beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/af5ac929-1b88-452f-a979-f9442b946e24.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            211191
+          ],
+          [
+            211191,
+            422382
+          ],
+          [
+            422382,
+            633571
+          ]
+        ],
+        "num_entries": 633571,
+        "uuid": "ac747424-068a-11f0-b129-bd2411acbeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/6b898694-aa18-45f5-8427-c14887a0465b.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/24c78016-9be2-44f6-b812-7d33df5d3f48.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/87dcd433-54e8-4938-86c2-d0bc3a84d0d7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/f586645a-73e2-4892-aeea-35371a00049d.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/6de2ef69-06c3-4184-8ddd-cd265eb76aaa.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/f9e90121-6b16-466d-a4b2-f7ed7e630d0b.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/1650a281-6e56-40af-b477-d2e4aa82443c.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/0e67f7fe-854e-43d0-b7f8-33b97e326420.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/1774bd97-e562-48a6-b90f-5438bb262277.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/21c10f96-eb08-4156-9729-646583192f2b.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/741d2293-adf5-4700-87e1-bf0b73ab7c9a.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/48145193-dd94-4e2f-aba8-b7b1546d34c1.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/22a9d134-b407-4569-a240-d433812b8f6c.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/f7890d53-49b1-426f-aedf-dc2d07aba515.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/51699c31-45b7-4543-b20d-6b89396b6f43.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/543b076d-fa8f-41d0-aa03-3d7af6104ed1.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/409dee45-bd72-4d6b-8231-943a0767fb35.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/bf3d662c-a181-4c5e-9db8-4d586a8efe31.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/09ae3bd1-4565-4bb7-8e9d-4416dc5b29aa.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/8a5af30b-7ab6-470a-acbd-b65e40793da5.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/32a44ece-7dca-4bfb-bdd6-8a590a3a1370.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/62b065be-5a52-471b-abca-bb400f1baf93.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/91c70e21-1d80-4eb9-9948-f91d6de93073.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/7987d161-a76a-436a-9b0a-4aebd22333a8.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/aa42ef88-9c2f-4e25-a9b3-0a095dacbd7d.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/b77d271a-d02c-4fe7-a56f-28c1610daa27.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/213851fc-b214-4ea3-9a7d-7b804ef43c15.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/62ee11a9-8d1c-4f08-a7d2-40b132362f1d.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/c315b12c-2457-471c-939d-9bdaf01356ad.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/d7a1c4ad-968a-4d40-8893-4746c1ed6b67.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/a2d3f763-85c3-4f9d-961f-9101f6438851.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/9919612b-089f-4cc7-80b8-2af22b8ec71c.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/4c51e15c-4793-4230-8810-6eca482f8788.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/a8efa747-e88a-423a-914c-f00839a38bb4.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/dc540f9e-f599-4da5-b6b1-3ea20646e17c.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/ee179b77-7c97-4cc5-b42b-6e9c94fd25b3.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/f57e9d7a-79ec-4b70-ae0b-c60a0c9ead23.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/f24ddba3-7df5-46c3-9708-3efa40e3563e.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/06f5d596-1200-434e-86a7-77dc0df18a8a.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/ec213a2f-d948-4b67-a9e1-b813066c9761.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/d85522b3-a90d-4516-8fd4-bf31360b9d0f.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/90e41ff9-7487-44bc-b8eb-325179d2df0a.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/ebea7116-ae81-4254-8478-149b366b1985.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/d461ceca-e7e8-42e9-8f8b-09348bdc9128.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/f9d2962c-adaa-4481-a709-9d54253989f3.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/861bb028-c169-45ae-8002-4a7c26ef7f56.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/d8743552-8e41-483d-9333-ef15b5fc245d.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/ee9f9200-afbf-4bc2-9bb5-cb51d3160f6c.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/03a29608-712f-40c4-b091-6c3683cf2b18.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/2457caad-1479-40c5-9aaa-a8d037216452.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/ffca6a3d-ff40-412b-9556-c815d6bb4ba8.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/40018fa3-d830-49d6-a945-34d32b16779a.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/1d826c7b-a954-43a0-830e-e2a4dba0f948.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/d1fa2b5f-9a4e-4dc8-a5ad-f120b980262b.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/27a55023-ef02-4056-90a2-47a5879e1c23.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/060d178f-dde3-4260-bd32-5d4b411ff712.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/31511fe6-f431-4599-9d1b-d1679f256abd.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/cdfdda40-9d06-492f-afc9-6484f644e946.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/b88aaaf6-0895-438e-a5aa-021960b5d9f4.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/202755ea-4189-4cd3-b370-94060cc8e370.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/da7ae98e-5a5e-416e-9b9f-2305169edfc2.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/f301a82d-7f75-452b-9976-ff92c9431389.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/f64bc256-0c97-4002-9e26-01e056a231a9.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/4604ac03-a445-4266-9fc0-ed895f99692b.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/4eb96d45-d1d3-4fe9-bb76-899238ad7854.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/8739b80e-f070-47c4-a4ee-8612d4d17b5e.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/af6ef56d-0dcf-4a49-8d70-841bd8dbba23.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/64e39288-3f37-4ba3-8903-203f784903e1.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/70401ba3-f3c3-420b-80fd-bfc9922a4d55.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/1ec438cb-ebc5-4174-836f-5fd0720497e9.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/9adc6e06-a7c6-4bba-84ae-3700e9a5cb13.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/26419f66-7859-4f05-9d2d-ab4f8cfe8082.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/aafa0304-a18a-4652-b4b7-a42f09dad834.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/6daf47ff-ab46-4ea6-898d-17e4e141be4e.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/2475fcc3-3fa8-4c99-b218-13c10c019c55.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/5b533dbc-3d52-4b91-b835-ccde1b90e1cd.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/5926ff82-8270-478c-a433-9bfb381727b5.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/3ef82540-f71b-4382-863c-600ab2d80c5c.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/67f192aa-b0b0-42bc-b36a-0ab106ce96a1.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/be745b39-d660-4c9b-b67f-28a838ae8b82.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/78ec0ffe-70fe-4c9a-933b-efcc4d219d3e.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/a971a46f-d68a-4ae5-b6eb-f6ab4febc7ba.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/2f94f9d5-bafb-48e7-9522-13a81ad9559d.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/13e76c5c-0264-4740-bfea-8d21a398bb23.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/9adb8a1c-d050-4e5e-afdb-ec0bf4acadf4.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/a6d6a5e3-c21c-448d-aed7-c976c8f3710f.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/94d4426e-f4fb-484f-bff9-d1d745a97e78.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/d3be94bd-569e-491e-86b9-3662ca567e67.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/76aee68f-9880-4a64-b0e6-309c2a74186c.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/427eeb40-c93f-4578-8994-6ff428ea86a7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/d0582f61-79de-4447-b3e3-901b9485fd52.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/e68c8cb0-dbe4-4c12-b3bb-93ffc21ca6fd.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/005c2067-9800-4c3d-9403-09bee84671df.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/7f9bb50b-2410-494a-acb3-39dbd55cc4e6.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/0b223abf-263a-4c4d-9795-f80aaaa0702a.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/97f3ebe9-304a-40f9-9d79-23d164c4069a.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/9a684c04-1026-4240-add1-20faa540c0a7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/3dfb0bd0-4dcf-48b5-9cb2-e06c3b837ff4.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/b2b6eaed-6e55-4d56-bc95-07bd3eb00a9f.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/89193762-9742-423a-9d28-a14033996b1c.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/9306edb2-281a-45f7-99f4-7180e51330f3.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/804dd853-e79c-4263-ae3a-68d85a0b3557.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/2ac47f00-e019-4604-9752-b47be5d344af.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/ad72db8e-6f90-4eaf-b484-48cfd7088cb7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/5b05b249-aaab-4629-8f34-733f02b0bfd7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/28c94c08-c711-4e33-8030-5efe3da57f67.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/e97773ce-8b48-4c47-8613-1c761e961340.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/c75ec161-2fbf-4f53-a856-16bd89c9db21.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/dd6e7b19-183d-4ee0-8830-15f14e17e0ff.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/3eac1cc6-b856-4dac-825f-5db85af15793.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/4567bb4b-4755-4ca7-af5f-c67320f8884d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            218358
+          ],
+          [
+            218358,
+            436716
+          ],
+          [
+            436716,
+            655074
+          ]
+        ],
+        "num_entries": 655074,
+        "uuid": "1e48cd08-0860-11f0-8037-0c8ed380beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/7dc0ab9b-0007-49bd-8711-e4b4ec877da0.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/7f339456-aa1a-4bd3-9989-827e46461d50.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/583d1032-3ddf-467d-922e-c5959362a673.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/992999ed-c167-417c-9b0e-168b5d05dae2.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/0e38315f-f546-4719-8ed0-d753f90684ed.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/9c485139-2fdb-48bf-8b6e-469e932cbe4d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            212387
+          ],
+          [
+            212387,
+            424774
+          ],
+          [
+            424774,
+            637159
+          ]
+        ],
+        "num_entries": 637159,
+        "uuid": "be5fdcf2-0688-11f0-9b1b-a4e36880beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/3ac52f71-b8ea-4f1e-a42c-adff3a31c610.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/39fb7489-e87c-49cb-a27c-6d7be0ecc691.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            101368
+          ]
+        ],
+        "num_entries": 101368,
+        "uuid": "e90a2534-0890-11f0-b946-0e0a0c12beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/11386cd3-6ab4-4ef7-953c-aca26843ced5.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/41a0a33e-82fa-44a7-9af3-b2c9ce6c2d65.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/496add7b-a88e-467b-8ada-ce75787f3560.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/a8712e08-c208-4f0c-b085-52d37649c33d.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            28856
+          ]
+        ],
+        "num_entries": 28856,
+        "uuid": "573a8ae2-0a82-11f0-a02b-9b0a030abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/ff024f19-a40b-4c47-a842-c474d9d385f2.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/c91becbc-0211-4a24-8852-caf2b747dbf6.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/12313950-cd61-4bed-9438-4db3a38530c8.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/051b05d1-6632-4806-870c-cfedc86be73d.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/a9a7b0c2-1652-4a27-8bf8-70eaa8ba3648.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/353e12ad-2aa4-46a6-b022-be845cca5b30.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/c0d05ebf-36cb-4041-97a1-4c2e1dfd6180.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/5cb713cc-be24-41a8-b912-fef9cb6b89a1.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/4bdcc9ed-298c-45b0-914b-7b781150a328.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/c0070910-f7a6-48c0-892b-13bc5e5bc8b2.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/0c84deda-a78a-41d0-a615-fe613ad4b89c.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/db9a3baa-3de1-4f94-9669-cff9527258b9.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/ccc9a1e0-9cb2-42b3-92fb-74b37a732f29.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/5a34966d-8750-46c4-a0f8-cea7c604668b.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/3476b0c2-27d4-4d91-ad11-eb99f18b658f.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/6c3bbc22-838b-42a0-9dbc-8123df6281d7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/acf5a083-8e25-40f5-bace-cbce66a00488.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/a6941ebd-7460-40a9-8d99-299b1603c8ed.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/5bbb40be-e0cf-4553-9881-195bea451758.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/b8bfa9b4-bc97-483d-a16c-0edc38ccf635.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/190ca154-7761-4d77-90e8-2091e2641d7d.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/8a80fe8d-419d-4972-bfd2-38f96b9b823f.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/72f992be-a37b-4d91-9146-26f7bfa27ee1.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/436977a7-f0d8-4101-b448-192bc479c0b7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/9ff25a13-a63c-4946-b479-3ee47e67fa33.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/e9656dc5-1ae1-404c-8d12-6f1acb0135ed.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/fe0855cd-dfe8-4da5-96d6-c539c259559d.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/8fd1934a-e062-4815-89aa-dd655bc7fdac.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/9909273c-e8d0-4f8f-b9dc-19e1465932e2.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/d3d6b038-c2d5-40c0-a058-e95665d508a6.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/b5d6dc92-6c1d-47a3-9e1f-d7c5dc6b582b.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/8638e4f3-dbb6-4e66-afa2-6d038da7ac19.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/bc960459-d1e0-48b7-bda9-f5f7f7663157.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/e956bf56-2475-4e75-b1f2-ff3a4a305c52.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/db3b9a38-6306-4141-8813-65e5c0e210a4.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/5d8ff031-68f4-4cc2-b1f7-7796c4c2f887.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/eae5f339-79ec-49ed-b344-9ababed5f251.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/fbdc4b28-25c8-48e9-8a9f-bb0bab3c6e21.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            27713
+          ]
+        ],
+        "num_entries": 27713,
+        "uuid": "12fe18b6-097f-11f0-8f26-46349e86beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/8103a3c8-105b-4079-bcc9-6ebb1ddf0ee5.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/85ca1e5b-cae8-44fe-acd4-9e3db45a0269.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/162162ac-3760-428a-adcb-10774a2a54c7.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/3a1f4980-8255-4f79-bb70-5d6c068f4ed9.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/a8e74853-f4c1-4bb9-8ba8-520e2fa99a42.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/90000/a5cab4f3-dcdb-4dd5-bc4f-cd811b44c21a.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/0ebed41c-a2de-4728-831d-7f78fc736020.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/fbbefc7e-5f37-4b96-af6f-28111f195831.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/1aae5f2e-3a81-4c0b-992a-9a5296a504ef.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/4ac3d052-c829-4faa-9168-352fc5b79762.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/ae97127d-2572-4149-b957-ef0bb8eccff5.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/a9a11974-27c2-4a12-b03b-ec7afbe26105.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/9896d3f6-9bca-4e87-869b-051e3e4273bc.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/85b5bd7f-5dcf-469f-ba29-44828dff3828.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/0ca486bd-f125-49b1-9885-ed74fb390fc1.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            148217
+          ]
+        ],
+        "num_entries": 148217,
+        "uuid": "94534a52-0ebc-11f0-9d19-8d013c0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/91e241b1-a9ad-4568-aa70-1715e1ace1bf.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            243133
+          ]
+        ],
+        "num_entries": 243133,
+        "uuid": "c7f1bc90-0ebc-11f0-9da6-7de4b49dbeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/1f4cab38-e91c-4796-984d-7e253d62f8b3.root": {
+        "object_path": "Events",
+        "steps": null,
+        "num_entries": null,
+        "uuid": null
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/fad10e21-c2d9-4a69-8306-930887d9ccc7.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            26868
+          ]
+        ],
+        "num_entries": 26868,
+        "uuid": "39757b62-0af4-11f0-be4e-28bfe183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/15d3fff7-1f8d-40e4-afc6-06994349dd08.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            55413
+          ]
+        ],
+        "num_entries": 55413,
+        "uuid": "7cb82c18-0b52-11f0-b0c1-b6bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/2c35b117-99cc-4b8f-99b0-cb573e1dfdc4.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            26642
+          ]
+        ],
+        "num_entries": 26642,
+        "uuid": "d1762d32-0aed-11f0-aff2-22803c0abeef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/c2a2d854-d7bd-4e2d-978f-1a3b38cdf4b0.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            185917
+          ],
+          [
+            185917,
+            371834
+          ]
+        ],
+        "num_entries": 371834,
+        "uuid": "8c48d052-0eb7-11f0-ad4c-73bce183beef"
+      },
+      "root://xrootd-cms.infn.it:1094//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2530000/84dad324-987c-4ea7-8b30-0ccafdecb519.root": {
+        "object_path": "Events",
+        "steps": [
+          [
+            0,
+            51332
+          ]
+        ],
+        "num_entries": 51332,
+        "uuid": "98210552-0ebc-11f0-88d9-76a8935abeef"
+      }
+    },
+    "isMC": false,
+    "goldenJSON": "jsns/Cert_Collisions2024_378981_386951_Golden.json",
+    "form": null,
+    "metadata": null
+  }
+}

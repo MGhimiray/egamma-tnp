@@ -1,0 +1,19 @@
+{
+  "sample/1": {
+    "files": {
+      "Sample/EGamma_2024.root": "Events",
+
+    },
+    "isMC": false,
+    "goldenJSON": "jsns/Cert_Collisions2024_378981_386951_Golden.json"
+  },
+  "sample/2": {
+    "files": {
+      "Sample/DY_2024.root": "Events"
+    },
+    "isMC": true,
+    "pileupJSON": {
+      "file": "pileup/puWeights_2024.json.gz"
+    }
+  }
+}

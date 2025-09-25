@@ -1,0 +1,29 @@
+{
+  "Data": {
+    "files": {
+      "root://xrootd-cms.infn.it//store/data/Run2024C/EGamma0/NANOAOD/MINIv6NANOv15-v1/2540000/00035aa1-f176-46ad-8fb9-6ad02849d13e.root": "Events",
+      "root://xrootd-cms.infn.it//store/data/Run2024C/EGamma0/NANOAOD/MINIv6NANOv15-v1/2540000/012eaa90-41ee-446b-a0f3-0f13b1e279d4.root": "Events",
+      "root://xrootd-cms.infn.it//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/2c35b117-99cc-4b8f-99b0-cb573e1dfdc4.root": "Events",
+      "root://xrootd-cms.infn.it//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/15d3fff7-1f8d-40e4-afc6-06994349dd08.root": "Events",
+      "root://xrootd-cms.infn.it//store/data/Run2024D/EGamma1/NANOAOD/MINIv6NANOv15-v1/2540000/fad10e21-c2d9-4a69-8306-930887d9ccc7.root": "Events"
+    },
+    "metadata": {
+      "isMC": false,
+      "goldenJSON": "jsns/Cert_Collisions2024_378981_386951_Golden.json"
+    }
+  },
+  "MC": {
+    "files": {
+      "root://xrootd-cms.infn.it//store/mc/RunIII2024Summer24NanoAODv15/DYto2E-2Jets_Bin-MLL-50_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/150X_mcRun3_2024_realistic_v2-v4/90000/fe6202b6-31e0-45ac-9326-7a3bf935565e.root": "Events",
+      "root://xrootd-cms.infn.it//store/mc/RunIII2024Summer24NanoAODv15/DYto2E-2Jets_Bin-MLL-50_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/150X_mcRun3_2024_realistic_v2-v4/90000/feb007c4-7eba-464a-bf00-5d79f2d63fb1.root": "Events",
+      "root://xrootd-cms.infn.it//store/mc/RunIII2024Summer24NanoAODv15/DYto2E-2Jets_Bin-MLL-50_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/150X_mcRun3_2024_realistic_v2-v4/2540000/a034634c-a394-4c3d-a527-7489f7a9f3d7.root":"Events",
+      "root://xrootd-cms.infn.it//store/mc/RunIII2024Summer24NanoAODv15/DYto2E-2Jets_Bin-MLL-50_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/150X_mcRun3_2024_realistic_v2-v4/110000/99a8cc4e-7595-45f2-8ee7-aed8555a849c.root": "Events",
+      "root://xrootd-cms.infn.it//store/mc/RunIII2024Summer24NanoAODv15/DYto2E-2Jets_Bin-MLL-50_TuneCP5_13p6TeV_amcatnloFXFX-pythia8/NANOAODSIM/150X_mcRun3_2024_realistic_v2-v4/110000/0199d3ea-6fce-4ad0-b346-141736e7805a.root": "Events"
+
+    },
+    "metadata": {
+      "isMC": true,
+      "pileupJSON": "pileup/puWeights_2024.json.gz"
+    }
+  }
+}

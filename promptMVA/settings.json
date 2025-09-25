@@ -1,0 +1,5 @@
+{
+    "probes_pt_cut": 5,
+    "use_sc_eta": true,
+    "extra_zcands_mask": "(zcands.probe.miniPFRelIso_all < 0.4) & (zcands.probe.sip3d < 8) & (zcands.probe.lostHits <= 1) & (np.abs(zcands.probe.dxy) < 0.05) & (np.abs(zcands.probe.dz) < 0.1)"
+}
